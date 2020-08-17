@@ -6,6 +6,7 @@ public class Add(){
 	public static void main()
 	{
 		c=a+b;
-		System.out.println(c)
+		System.out.println(c);
+		System.out.println("Done");
 	}
 }
